@@ -1,0 +1,1 @@
+ANTHROPIC_API_KEY=sk-ant-sua-chave-real-aqui
